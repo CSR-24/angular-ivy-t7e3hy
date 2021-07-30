@@ -1,0 +1,15 @@
+p {
+  font-family: Lato;
+}
+
+.in-progress {
+  background: yellow;
+}
+
+.in-success {
+  background: green;
+}
+
+.in-failure {
+  background: red;
+}
